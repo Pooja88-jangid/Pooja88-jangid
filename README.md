@@ -18,3 +18,6 @@ This dashboard analyzes profit by year, month, country, and product segment.
 
 ## Screenshot:
 ![Dashboard Preview](dashboard-preview.png)
+
+## 📂 Data Source
+The dashboard is built using the data provided in [FinanceData.xlsx](FinanceData.xlsx).
